@@ -1,0 +1,28 @@
+1. You are using your own rate curve 
+4. You are launching the calibration 
+valuationDate = 0.000000 
+nombrePrix = 24 
+
+Seed parameters model CIR2++ 
+kappa_1_seed = 0.050000 
+theta_1_seed = 0.150000 
+sigma_1_seed = 0.100000 
+kappa_2_seed = 0.050000 
+theta_2_seed = 0.050000 
+sigma_2_seed = 0.100000 
+x_0_seed = 0.050000 
+y_0_seed = 0.050000 
+
+Calibration parameters 
+alpha = 1000000000.000000 
+epsilonFeller = 0.000100 
+epsilonPrice = 0.000000 
+epsilonGrad = 0.000000 
+epsilonPas = 0.000000 
+delta = 0.000100 
+muRF = 1.200000 
+maxIter = 1000.000000 
+
+Swaptions are of Payer type 
+5th order was choosen 
+Newton multinomial theorem will be used 
